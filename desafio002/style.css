@@ -1,0 +1,43 @@
+body{
+    background-color: violet;
+    padding-top: 2rem;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+
+}
+
+main{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: beige;
+    width: 33rem;
+    padding: 1.5rem;
+    border-radius: 1.5rem;
+
+}
+
+input[type='submit']{
+    color: white    ;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 0.2rem;
+    background-color: purple;
+    width: 75%;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    text-align: center;
+    font-size: 1.5rem;
+
+
+}
+
+form{
+    padding-top: 1rem;
+
+}
+
+p{
+    font-size: 1.3rem;
+
+}
