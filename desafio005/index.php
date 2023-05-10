@@ -24,7 +24,7 @@
         if ($num == null) {
             echo null;
         } else {
-            $int = intval($num);
+            $int = intval($num);    //Con eso conviertes el valor a entero.
 
             $decimal = $num - $int;
 
