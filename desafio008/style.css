@@ -1,0 +1,71 @@
+body{
+    background-color: violet;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 2rem;
+    padding-top: 2rem;
+}
+
+#formulario{
+    background-color: beige;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    padding: 1rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    border-radius: 2rem;
+
+}
+
+label{
+    background-color: rgb(170, 170, 230);
+    padding: 0.5rem;
+    border-radius: 1rem;
+    display: block;
+    margin-left: auto;
+    margin-right: 60%;
+    width: 18.5%;
+    
+
+}
+
+.espacio{
+    padding: 0.5rem;
+}
+
+input[type=number]{
+    display: block;
+    font-size: 2rem;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+input[type=submit]{
+    background-color: green;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    padding: 0.7rem;
+    font-size: 2rem;
+    border-radius: 0.6rem;
+
+
+
+}
+
+#resultado{
+    background-color: beige;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    padding: 1rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    border-radius: 2rem;
+
+
+}
